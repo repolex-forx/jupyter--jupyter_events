@@ -72,7 +72,8 @@
       ],
       "ast": [
         "aggregate/ast/deb61b4924d808234d295fe316360f6478584acb/chunk-001.nq.gz"
-      ]
+      ],
+      "repolex": "aggregate/repolex/deb61b4924d808234d295fe316360f6478584acb/chunk-001.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
