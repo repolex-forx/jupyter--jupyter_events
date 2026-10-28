@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/jupyter/jupyter_events/commit/deb61b4924d808234d295fe316360f6478584acb",
       "git:hexsha": "deb61b4924d808234d295fe316360f6478584acb",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/jupyter/jupyter_events/commit/6cd6da7d1b4e0c08896798c0e5395daa15d3d5a0",
