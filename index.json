@@ -1,0 +1,11 @@
+{
+  "org": "jupyter",
+  "repo": "jupyter_events",
+  "versions": [
+    {
+      "commit": "deb61b4924d808234d295fe316360f6478584acb",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:12:02.615711+00:00"
+    }
+  ]
+}
